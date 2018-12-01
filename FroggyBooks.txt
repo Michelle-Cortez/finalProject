@@ -1,0 +1,3 @@
+B100,Console Wars,12.95
+B200,The Red Queen,14.95
+B300,Everything STEM Handbook,15.99
