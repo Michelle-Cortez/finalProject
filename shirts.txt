@@ -1,4 +1,3 @@
-S,Yellow,10.95
-M,Green,11.95
-L,Black,12.95
-4t,red,4.85
+S: Yellow: 10.95
+M: Green: 11.95
+L: Black: 12.95
